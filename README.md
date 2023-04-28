@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Carl-Vermooten.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning 
+- 👀 I’m interested in development.
+- 🌱 I’m always learning 
 - 💞️ I’m looking to collaborate on pretty much anything.
 - 📫 How to reach me: cvermooten@gmail.com
