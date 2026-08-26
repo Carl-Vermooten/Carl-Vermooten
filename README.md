@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Carl-Vermooten.
 - 🌱 I’m always learning 
-- 💞️ I’m looking to collaborate on pretty much anything.
 - 📫 How to reach me: cvermooten@gmail.com
